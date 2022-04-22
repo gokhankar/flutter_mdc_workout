@@ -1,16 +1,10 @@
-# mdc_100_series_new x
+Thanks to Google Codelabs, trying to proficient in Flutter, I made some workouts on MDC.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012638.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012647.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012702.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012721.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012708.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012727.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012733.jpg" alt="image">
+<img src="https://github.com/gokhankar/flutter_mdc_workout/blob/master/assets/screenshots/Screenshot_20220423-012738.jpg" alt="image">
